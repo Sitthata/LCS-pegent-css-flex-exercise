@@ -77,3 +77,10 @@ nav a:visited {
   padding: 0.5em;
   margin: 0.5em;
 }
+
+.item {
+  min-height: 8.5rem;
+  min-width: 5rem;
+  background-color: aquamarine;
+  outline: 2px solid black;
+}
